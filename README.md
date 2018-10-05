@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-### We have many operating systems, apps and hardware projects, trying to push for a free/libre/open source mobile phone. This page attempts to compile all these projects, state the project goals, and to give a real world review. With this you will know what to throw your support behind.
+#### We have many operating systems, apps and hardware projects, trying to push for a free/libre/open source mobile phone. This page attempts to compile all these projects, state the project goals, and to give a real world review. With this you will know what to throw your support behind.
 
 ## Android Forks
 

@@ -2,7 +2,15 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-#### We have many operating systems, apps and hardware projects, trying to push for a free/libre/open source mobile device. This page attempts to compile all these projects, state the project goals, and to give a real world review. With this you will know what to throw your support behind.
+We have many operating systems, apps and hardware projects, trying to push for a free/libre/open source mobile device. This page attempts to compile all these projects, state the project goals, and to give a real world review. With this you will know what to throw your support behind.
+
+## Android System Apps
+
+** **
+
+* F-Droid - Repository and app containing only FLOSS software. Has a decent selection.
+* microG - FLOSS reimplementation of the Google Play Services, 
+* Yalp Store - 
 
 ## Android Forks
 
@@ -11,14 +19,6 @@
 * LineageOS - A fork of Android with it's own set of default apps and extra features. G-Apps are optional and should be avoided if can.
 * LineageOS with microG - 
 * eelo - 
-
-## Android Middleware
-
-** **
-
-* F-Droid - 
-* microG - 
-* Yalp Store - 
 
 ## GNU/Linux-based operating systems
 

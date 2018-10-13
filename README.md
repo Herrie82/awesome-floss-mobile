@@ -56,4 +56,4 @@ We have many operating systems, apps and hardware projects, trying to push for a
 
 ## Recomended Android Phones
 
-![Public Domain (CC0)](pd.png)] CC0 Licenced.
+![Public Domain (CC0)](pd.png) CC0 Licenced.

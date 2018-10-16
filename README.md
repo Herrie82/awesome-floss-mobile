@@ -28,10 +28,22 @@ We have many operating systems, apps and hardware projects, trying to push for a
 
 * [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) - ***On F-Droid*** - F-Droid fork of Firefox, removes proprietary bits found in Mozilla's builds.
 * [VLC](https://www.videolan.org/vlc/download-android.html) - ***Not On F-Droid*** - The ultimate media player.
+* [OpenCamera](https://f-droid.org/packages/net.sourceforge.opencamera/) - ***On F-Droid*** - A good camera app, It's more configurable and generally takes better photos, then the default camera apps.
+* [Simple Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery/) - ***On F-Droid*** - A simple gallery app, has all gallery features one would expect.
+* [Amaze](https://f-droid.org/en/packages/com.amaze.filemanager/) - ***On F-Droid*** - A good FLOSS file manager. Looks good, works well, and has extra features.
+* [Document Viewer](https://f-droid.org/en/packages/org.sufficientlysecure.viewer/) - ***On F-Droid*** - The best document viewer in my experience (even against google play apps). It is fast and supports PDF, DjVu, XPS and EPUB among others.
+* [OsmAnd](https://f-droid.org/en/packages/net.osmand.plus/) - ***On F-Droid*** - Powerful offline map app, shows public transport and hiking symbols among driving features.
+* [Maps](https://f-droid.org/en/packages/com.github.axet.maps/) - ***On F-Droid*** - F-Droid fork of Maps.ME. It's a fast and easy tool, but no hiking tools, and rudimentary routing.
+* [Simple Calendar](https://f-droid.org/en/packages/com.simplemobiletools.calendar/) - ***On F-Droid*** - A more simple solution to LineageOS and it's default app. Works well for events and has reminders.
 
-## Android Apps
 
-* [Termux]
+## Android Nice Apps
+
+**Tertiary apps, would be nice to all. Although some may be needed by readers.**
+
+* [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) - ***On F-Droid*** -
+* [Termux](https://f-droid.org/en/packages/com.termux/) - ***On F-Droid*** -
+* [ScummVM](https://www.scummvm.org/) - ***Not On F-Droid*** -
 
 # GNU/Linux
 
@@ -55,5 +67,8 @@ We have many operating systems, apps and hardware projects, trying to push for a
 * Librem 5
 
 ## Recomended Android Phones
+
+* Fairphone 2
+* Nexus 
 
 ![Public Domain (CC0)](pd.png) CC0 Licenced.

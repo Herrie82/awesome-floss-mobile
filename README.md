@@ -29,15 +29,15 @@ Must-have apps, with direct links to either F-Droid or the APK from the official
 
 *Key:* **F** = *Avalible on F-Droid*, **W** = *Only avalible from the publishers website*.
 
-* **F** [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) - F-Droid fork of Firefox, removes proprietary bits found in Mozilla's builds.
-* **W** [VLC](https://www.videolan.org/vlc/download-android.html) - The ultimate media player.
-* **F** [OpenCamera](https://f-droid.org/packages/net.sourceforge.opencamera/) - A good camera app, It's more configurable and generally takes better photos then the default camera apps.
-* **F** [Simple Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery/) - A simple gallery app, has all gallery features one would expect.
-* **F** [Amaze](https://f-droid.org/en/packages/com.amaze.filemanager/) - A good FLOSS file manager. Looks good, works well, and has extra features.
-* **F** [Document Viewer](https://f-droid.org/en/packages/org.sufficientlysecure.viewer/) - Probably the best document viewer on Android. It is fast and supports PDF, DjVu, XPS and EPUB among others.
-* **F** [OsmAnd](https://f-droid.org/en/packages/net.osmand.plus/) - Powerful offline map app, shows public transport and hiking symbols among driving features.
-* **F** [Maps](https://f-droid.org/en/packages/com.github.axet.maps/) - F-Droid fork of Maps.ME. It's a fast and easy tool, but no hiking tools, and rudimentary routing.
-* **F** [Simple Calendar](https://f-droid.org/en/packages/com.simplemobiletools.calendar/) - A more simple solution to LineageOS and it's default app. Works well for events and has reminders.
+* **F** | [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) - F-Droid fork of Firefox, removes proprietary bits found in Mozilla's builds.
+* **W** | [VLC](https://www.videolan.org/vlc/download-android.html) - The ultimate media player.
+* **F** | [OpenCamera](https://f-droid.org/packages/net.sourceforge.opencamera/) - A good camera app, It's more configurable and generally takes better photos then the default camera apps.
+* **F** | [Simple Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery/) - A simple gallery app, has all gallery features one would expect.
+* **F** | [Amaze](https://f-droid.org/en/packages/com.amaze.filemanager/) - A good FLOSS file manager. Looks good, works well, and has extra features.
+* **F** | [Document Viewer](https://f-droid.org/en/packages/org.sufficientlysecure.viewer/) - Probably the best document viewer on Android. It is fast and supports PDF, DjVu, XPS and EPUB among others.
+* **F** | [OsmAnd](https://f-droid.org/en/packages/net.osmand.plus/) - Powerful offline map app, shows public transport and hiking symbols among driving features.
+* **F** | [Maps](https://f-droid.org/en/packages/com.github.axet.maps/) - F-Droid fork of Maps.ME. It's a fast and easy tool, but no hiking tools, and rudimentary routing.
+* **F** | [Simple Calendar](https://f-droid.org/en/packages/com.simplemobiletools.calendar/) - A more simple solution to LineageOS and it's default app. Works well for events and has reminders.
 
 ## Android Apps
 

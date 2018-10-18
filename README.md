@@ -25,10 +25,12 @@ The Android Open Source Project is licenced under Apache 2.0. However most versi
 
 ## Android Apps
 
-| Key   | Value                                         |
-|-------|-----------------------------------------------|
-| **F** | *Available on F-Droid.*                       |
-| **W** | *Only available from the publishers website.* |
+
+
+| Key   | Value                                       |
+|-------|---------------------------------------------|
+| **F** | Available on F-Droid.                       |
+| **W** | Only available from the publishers website. |
 
 ### Essential Apps
 
@@ -41,8 +43,10 @@ Must-have apps, with direct links to either F-Droid or the APK from the official
 * **F** | [Amaze](https://f-droid.org/en/packages/com.amaze.filemanager/) - A good FLOSS file manager. Looks good, works well, and has extra features.
 * **F** | [Document Viewer](https://f-droid.org/en/packages/org.sufficientlysecure.viewer/) - Probably the best document viewer on Android. It is fast and supports PDF, DjVu, XPS and EPUB among others.
 * **F** | [OsmAnd](https://f-droid.org/en/packages/net.osmand.plus/) - Powerful offline map app, shows public transport and hiking symbols among driving features.
-* **F** | [Maps](https://f-droid.org/en/packages/com.github.axet.maps/) - F-Droid fork of Maps.ME. It's a fast and easy tool, but no hiking tools, and rudimentary routing.
-* **F** | [Simple Calendar](https://f-droid.org/en/packages/com.simplemobiletools.calendar/) - A more simple solution to LineageOS and it's default app. Works well for events and has reminders.
+* **F** | [Maps](https://f-droid.org/en/packages/com.github.axet.maps/) - F-Droid fork of Maps.ME. It's fast, easy and offline, but no hiking tools, and rudimentary routing.
+* **F** | [Simple Calendar](https://f-droid.org/en/packages/com.simplemobiletools.calendar/) - A more simple solution to LineageOS' default app. Works well for events and has reminders.
+* **F** | [Editor](https://f-droid.org/en/packages/org.billthefarmer.editor/) - A simple text editor, could be used to store notes in a simple fashion.
+* **F** | [Survival Manual](https://f-droid.org/en/packages/org.ligi.survivalmanual/) - Learn how to survive. Based on the Army Field Manual 21-76 - fully working offline.
 
 ### Nice Apps
 
@@ -51,11 +55,21 @@ Tertiary apps. Nice to have, but not required for basic operations
 * **F** | [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) - No frills RSS feed reader.
 * **F** | [Flym](https://f-droid.org/en/packages/net.frju.flym/) - A modern RSS feed reader.
 * **F** | [AntennaPod](https://f-droid.org/packages/de.danoeh.antennapod/) - Podcasting Manager, lets you download/stream and manage podcasts. Can add podcasts from iTunes, gpodder.net, OPML files, or RSS feed URLs.
-* **F** | [Termux](https://f-droid.org/en/packages/com.termux/) - A terminal emulator built for Android, with its own repos.
+* **F** | [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) - Lightweight YouTube/Soundcloud frontend.
+* **F** | [Slide](https://f-droid.org/en/packages/me.ccrama.redditslide/) - Feature-packed and material-designed Reddit client.
+* **F** | [Termux](https://f-droid.org/en/packages/com.termux/) - A terminal emulator built for Android, with its own repos. [Hacker's Keyboard](https://f-droid.org/en/packages/org.pocketworkstation.pckeyboard/) is recommended.
+* **F** | [Unit Converter Ultimate](https://f-droid.org/en/packages/com.physphil.android.unitconverterultimate/) - A simple and easy-to-use unit converter to handle any conversion you'll ever need.
+* **F** | [LibreTorrent](https://f-droid.org/en/packages/org.proninyaroslav.libretorrent/) - Torrent Client.
+* **F** | [Ameixa](https://f-droid.org/en/packages/org.xphnx.ameixa/) - A FLOSS icon pack for FLOSS apps.
+* **F** | [Material Tea Timer](https://f-droid.org/packages/org.ligi.materialteatimer/) - Time your tea brewing.
 * **F** | [Soft Sound](https://f-droid.org/en/packages/org.mcxa.softsound/) - Plays relaxing sounds like rain, storms and camp fires.
 * **F** | [Binaural Beats](https://f-droid.org/en/packages/com.github.axet.binauralbeats/) - Helps you to relax and meditate.
+* **F** | [Minetest](https://f-droid.org/en/packages/net.minetest.minetest/) Voxel sandbox game, with multiplayer. Some has made a [mod manager](https://f-droid.org/en/packages/com.rubenwardy.minetestmodmanager/).
+* **F** | [Cow's Revenge](https://f-droid.org/en/packages/org.pipoypipagames.cowsrevenge/) - Fun platform game made in Godot Engine.
 * **F** | [Anuto TD](https://f-droid.org/en/packages/ch.logixisland.anuto/) - A simple tower defence game.
 * **W** | [ScummVM](https://www.scummvm.org/) - Allows you to play old point and click games, plays well on Android.
+* **W** | [RetroArch](https://www.retroarch.com/?page=platforms) - 
+* **F** | [J2ME Loader](https://f-droid.org/en/packages/ru.playsoftware.j2meloader/) - J2ME Emulator. This will play some old Motorola games.
 
 # GNU/Linux
 
@@ -82,8 +96,8 @@ These are great
 
 ## Recomended Android Phones
 
-* [Fairphone 2 (2015-12)](https://shop.fairphone.com/) - An ethically sourced, fairtrade smartphone that can be easily repaired. - *[LineageOS](https://wiki.lineageos.org/devices/FP2), [Ubuntu Touch](https://devices.ubuntu-touch.io/device/FP2), [postmarketOS](https://wiki.postmarketos.org/wiki/Fairphone_2_(fairphone-fp2)).*
-* [OnePlus One (2014-04)](https://www.oneplus.com/global/one) - A phone that came out of nowhere to challenge bigger flagships. - *[LineageOS](https://wiki.lineageos.org/devices/bacon), [Ubuntu Touch](https://devices.ubuntu-touch.io/device/bacon), [postmarketOS](https://wiki.postmarketos.org/wiki/OnePlus_One_(oneplus-bacon)).*
-* Nexus 5 (2013-10) - Old but gold. - *LineageOS, Ubuntu Touch, postmarketOS.*
+* [Fairphone 2 (2015-12)](https://shop.fairphone.com/) - An ethically sourced, fairtrade smartphone that can be easily repaired. ([LineageOS](https://wiki.lineageos.org/devices/FP2) [Ubuntu Touch](https://devices.ubuntu-touch.io/device/FP2) [postmarketOS](https://wiki.postmarketos.org/wiki/Fairphone_2_(fairphone-fp2)))
+* [OnePlus One (2014-04)](https://www.oneplus.com/global/one) - A phone that came out of nowhere to challenge bigger flagships. - [LineageOS](https://wiki.lineageos.org/devices/bacon), [Ubuntu Touch](https://devices.ubuntu-touch.io/device/bacon), [postmarketOS](https://wiki.postmarketos.org/wiki/OnePlus_One_(oneplus-bacon)).
+* Nexus 5 (2013-10) - Old but gold. - LineageOS, Ubuntu Touch, postmarketOS.
 
 ![Public Domain (CC0)](pd.png) CC0 Licenced.

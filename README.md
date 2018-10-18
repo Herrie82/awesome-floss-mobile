@@ -27,10 +27,10 @@ The Android Open Source Project is licenced under Apache 2.0. However most versi
 
 Must-have apps, with direct links to either F-Droid or the APK from the official website.
 
-| Key   | Value                                        |
-|-------|----------------------------------------------|
-| **F** | *Avalible on F-Droid.*                       |
-| **W** | *Only avalible from the publishers website.* |
+| Key   | Value                                         |
+|-------|-----------------------------------------------|
+| **F** | *Available on F-Droid.*                       |
+| **W** | *Only available from the publishers website.* |
 
 * **F** | [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) - F-Droid fork of Firefox, removes proprietary bits found in Mozilla's builds.
 * **W** | [VLC](https://www.videolan.org/vlc/download-android.html) - The ultimate media player.

@@ -65,6 +65,7 @@ Tertiary apps. Nice to have, but not required for basic operations
 * **F** | [Soft Sound](https://f-droid.org/en/packages/org.mcxa.softsound/) - Plays relaxing sounds like rain, storms and camp fires.
 * **F** | [Binaural Beats](https://f-droid.org/en/packages/com.github.axet.binauralbeats/) - Helps you to relax and meditate.
 * **F** | [Minetest](https://f-droid.org/en/packages/net.minetest.minetest/) Voxel sandbox game, with multiplayer. Some has made a [mod manager](https://f-droid.org/en/packages/com.rubenwardy.minetestmodmanager/).
+* **F** | [SuperTuxKart](https://f-droid.org/en/packages/org.supertuxkart.stk/) - Good 3D kart racing game (similar to Mario Kart)
 * **F** | [Cow's Revenge](https://f-droid.org/en/packages/org.pipoypipagames.cowsrevenge/) - Fun platform game made in Godot Engine.
 * **F** | [Anuto TD](https://f-droid.org/en/packages/ch.logixisland.anuto/) - A simple tower defence game.
 * **W** | [ScummVM](https://www.scummvm.org/) - Allows you to play old point and click games, plays well on Android.
@@ -94,8 +95,10 @@ These are great
 * [ZeroPhone](https://www.crowdsupply.com/arsenijs/zerophone) - A work-in-progress open source, Linux-powered, $50 smartphone. Based on the Raspberry Pi Zero, ESP8266 and Arduino.
 * [Librem 5](https://puri.sm/products/librem-5/) - A work-in-progress premuim smartphone that is intended to respect security, privacy and freedom.
 
-## Recomended Android Phones
+## Recommended Android Phones
 
+* [OnePlus 5 (2017-06)](https://en.wikipedia.org/wiki/OnePlus_5)/[OnePlus 5T (2017-11)](https://en.wikipedia.org/wiki/OnePlus_5T) - The latest OnePlus phone that supports LineageOS. ([LineageOS](https://wiki.lineageos.org/devices/#oneplus).)
+* [Moto G4/G4 Plus (2016-05)](https://en.wikipedia.org/wiki/Moto_G4) - A somewhat low-end phone. ([LineageOS](https://wiki.lineageos.org/devices/athene).)
 * [Fairphone 2 (2015-12)](https://en.wikipedia.org/wiki/Fairphone_2) - An ethically sourced, fairtrade smartphone that can be easily repaired. ([LineageOS](https://wiki.lineageos.org/devices/FP2), [Ubuntu Touch](https://devices.ubuntu-touch.io/device/FP2), [postmarketOS](https://wiki.postmarketos.org/wiki/Fairphone_2_(fairphone-fp2)).)
 * [OnePlus One (2014-04)](https://en.wikipedia.org/wiki/OnePlus_One) - A phone that came out of nowhere to challenge bigger flagships. ([LineageOS](https://wiki.lineageos.org/devices/bacon), [Ubuntu Touch](https://devices.ubuntu-touch.io/device/bacon), [postmarketOS](https://wiki.postmarketos.org/wiki/OnePlus_One_(oneplus-bacon)).)
 * [Nexus 5 (2013-10)](https://en.wikipedia.org/wiki/Nexus_5) - Old but gold. This phone works best with Ubuntu Touch's convergence. ([LineageOS](https://wiki.lineageos.org/devices/hammerhead), [Ubuntu Touch](https://devices.ubuntu-touch.io/device/hammerhead), [postmarketOS](https://wiki.postmarketos.org/wiki/Google_Nexus_5_(lg-hammerhead)).)

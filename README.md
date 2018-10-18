@@ -29,9 +29,9 @@ Must-have apps, with direct links to either F-Droid or the APK from the official
 
 Key: 
 
-* **F** = *Avalible on F-Droid*
+**F** = *Avalible on F-Droid.*
 
-* **W** = *Only avalible from the publishers website*.
+**W** = *Only avalible from the publishers website.*
 
 * **F** | [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) - F-Droid fork of Firefox, removes proprietary bits found in Mozilla's builds.
 * **W** | [VLC](https://www.videolan.org/vlc/download-android.html) - The ultimate media player.

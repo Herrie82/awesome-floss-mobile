@@ -23,14 +23,16 @@ The Android Open Source Project is licenced under Apache 2.0. However most versi
 * [eelo (beta)](https://e.foundation/) - New project from a veteran open-source developer/supporter, huge emphasis on privacy and control and attractiveness. It comes with microG, new default apps, account manager, new search engine and online "cloud" services.
 * [Replicant](https://www.replicant.us/) - A fully FLOSS Android OS, that runs absolutely no proprietary firmware. Uses F-Droid as it's app store and is approved by the FSF. Only runs on (very) old phones.
 
-## Essential Android Apps
-
-Must-have apps, with direct links to either F-Droid or the APK from the official website.
+## Android Apps
 
 | Key   | Value                                         |
 |-------|-----------------------------------------------|
 | **F** | *Available on F-Droid.*                       |
 | **W** | *Only available from the publishers website.* |
+
+### Essential Apps
+
+Must-have apps, with direct links to either F-Droid or the APK from the official website.
 
 * **F** | [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) - F-Droid fork of Firefox, removes proprietary bits found in Mozilla's builds.
 * **W** | [VLC](https://www.videolan.org/vlc/download-android.html) - The ultimate media player.
@@ -42,9 +44,9 @@ Must-have apps, with direct links to either F-Droid or the APK from the official
 * **F** | [Maps](https://f-droid.org/en/packages/com.github.axet.maps/) - F-Droid fork of Maps.ME. It's a fast and easy tool, but no hiking tools, and rudimentary routing.
 * **F** | [Simple Calendar](https://f-droid.org/en/packages/com.simplemobiletools.calendar/) - A more simple solution to LineageOS and it's default app. Works well for events and has reminders.
 
-## Android Apps
+### Nice Apps
 
-Tertiary apps. Would be nice to have, Although many of these apps are a necessity for some readers.
+Tertiary apps. Nice to have, but not required for basic operations
 
 * **F** | [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) - No frills RSS feed reader.
 * **F** | [Flym](https://f-droid.org/en/packages/net.frju.flym/) - A modern RSS feed reader.

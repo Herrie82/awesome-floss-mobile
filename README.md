@@ -96,8 +96,9 @@ These are great
 
 ## Recomended Android Phones
 
-* [Fairphone 2 (2015-12)](https://shop.fairphone.com/) - An ethically sourced, fairtrade smartphone that can be easily repaired. ([LineageOS](https://wiki.lineageos.org/devices/FP2) [Ubuntu Touch](https://devices.ubuntu-touch.io/device/FP2) [postmarketOS](https://wiki.postmarketos.org/wiki/Fairphone_2_(fairphone-fp2)))
-* [OnePlus One (2014-04)](https://www.oneplus.com/global/one) - A phone that came out of nowhere to challenge bigger flagships. - [LineageOS](https://wiki.lineageos.org/devices/bacon), [Ubuntu Touch](https://devices.ubuntu-touch.io/device/bacon), [postmarketOS](https://wiki.postmarketos.org/wiki/OnePlus_One_(oneplus-bacon)).
-* Nexus 5 (2013-10) - Old but gold. - LineageOS, Ubuntu Touch, postmarketOS.
+* [Fairphone 2 (2015-12)](https://en.wikipedia.org/wiki/Fairphone_2) - An ethically sourced, fairtrade smartphone that can be easily repaired. ([LineageOS](https://wiki.lineageos.org/devices/FP2), [Ubuntu Touch](https://devices.ubuntu-touch.io/device/FP2), [postmarketOS](https://wiki.postmarketos.org/wiki/Fairphone_2_(fairphone-fp2)).)
+* [OnePlus One (2014-04)](https://en.wikipedia.org/wiki/OnePlus_One) - A phone that came out of nowhere to challenge bigger flagships. ([LineageOS](https://wiki.lineageos.org/devices/bacon), [Ubuntu Touch](https://devices.ubuntu-touch.io/device/bacon), [postmarketOS](https://wiki.postmarketos.org/wiki/OnePlus_One_(oneplus-bacon)).)
+* [Nexus 5 (2013-10)](https://en.wikipedia.org/wiki/Nexus_5) - Old but gold. This phone works best with Ubuntu Touch's convergence. ([LineageOS](https://wiki.lineageos.org/devices/hammerhead), [Ubuntu Touch](https://devices.ubuntu-touch.io/device/hammerhead), [postmarketOS](https://wiki.postmarketos.org/wiki/Google_Nexus_5_(lg-hammerhead)).)
+* [Galaxy Note 2 (N7100) (2012-09)](https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_II) - Very old, but will run a completely free OS. ([Replicant](https://redmine.replicant.us/projects/replicant/wiki/GalaxyNote2N7100).)
 
 ![Public Domain (CC0)](pd.png) CC0 Licenced.

@@ -32,28 +32,28 @@ Must-have apps, with direct links to either F-Droid or the APK from the official
 | **F** | *Available on F-Droid.*                       |
 | **W** | *Only available from the publishers website.* |
 
-* **F** |  [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) - F-Droid fork of Firefox, removes proprietary bits found in Mozilla's builds.
-* **W** |  [VLC](https://www.videolan.org/vlc/download-android.html) - The ultimate media player.
-* **F** |  [OpenCamera](https://f-droid.org/packages/net.sourceforge.opencamera/) - A good camera app, It's more configurable and generally takes better photos then the default camera apps.
-* **F** |  [Simple Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery/) - A simple gallery app, has all gallery features one would expect.
-* **F** |  [Amaze](https://f-droid.org/en/packages/com.amaze.filemanager/) - A good FLOSS file manager. Looks good, works well, and has extra features.
-* **F** |  [Document Viewer](https://f-droid.org/en/packages/org.sufficientlysecure.viewer/) - Probably the best document viewer on Android. It is fast and supports PDF, DjVu, XPS and EPUB among others.
-* **F** |  [OsmAnd](https://f-droid.org/en/packages/net.osmand.plus/) - Powerful offline map app, shows public transport and hiking symbols among driving features.
-* **F** |  [Maps](https://f-droid.org/en/packages/com.github.axet.maps/) - F-Droid fork of Maps.ME. It's a fast and easy tool, but no hiking tools, and rudimentary routing.
-* **F** |  [Simple Calendar](https://f-droid.org/en/packages/com.simplemobiletools.calendar/) - A more simple solution to LineageOS and it's default app. Works well for events and has reminders.
+* **F** | [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) - F-Droid fork of Firefox, removes proprietary bits found in Mozilla's builds.
+* **W** | [VLC](https://www.videolan.org/vlc/download-android.html) - The ultimate media player.
+* **F** | [OpenCamera](https://f-droid.org/packages/net.sourceforge.opencamera/) - A good camera app, It's more configurable and generally takes better photos then the default camera apps.
+* **F** | [Simple Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery/) - A simple gallery app, has all gallery features one would expect.
+* **F** | [Amaze](https://f-droid.org/en/packages/com.amaze.filemanager/) - A good FLOSS file manager. Looks good, works well, and has extra features.
+* **F** | [Document Viewer](https://f-droid.org/en/packages/org.sufficientlysecure.viewer/) - Probably the best document viewer on Android. It is fast and supports PDF, DjVu, XPS and EPUB among others.
+* **F** | [OsmAnd](https://f-droid.org/en/packages/net.osmand.plus/) - Powerful offline map app, shows public transport and hiking symbols among driving features.
+* **F** | [Maps](https://f-droid.org/en/packages/com.github.axet.maps/) - F-Droid fork of Maps.ME. It's a fast and easy tool, but no hiking tools, and rudimentary routing.
+* **F** | [Simple Calendar](https://f-droid.org/en/packages/com.simplemobiletools.calendar/) - A more simple solution to LineageOS and it's default app. Works well for events and has reminders.
 
 ## Android Apps
 
 Tertiary apps. Would be nice to have, Although many of these apps are a necessity for some readers.
 
-* **F** |  [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) - No frills RSS feed reader.
-* **F** |  [Flym](https://f-droid.org/en/packages/net.frju.flym/) - A modern RSS feed reader.
-* [AntennaPod](https://f-droid.org/packages/de.danoeh.antennapod/) - *On F-Droid* - Podcasting Manager, lets you download/stream and manage podcast listening. Can import podcasts from iTunes, gpodder.net, OPML files, or just RSS feed URLs.
-* [Termux](https://f-droid.org/en/packages/com.termux/) - *On F-Droid* - A terminal emulator built for Android, with its own repos.
-* [Soft Sound](https://f-droid.org/en/packages/org.mcxa.softsound/) - *On F-Droid* - Plays relaxing sounds like rain, storms and camp fires.
-* [Binaural Beats](https://f-droid.org/en/packages/com.github.axet.binauralbeats/) - *On F-Droid* - Helps you to relax and meditate.
-* [Anuto TD](https://f-droid.org/en/packages/ch.logixisland.anuto/) - *On F-Droid* - A simple tower defence game.
-* [ScummVM](https://www.scummvm.org/) - *Not On F-Droid* - Allows you to play old point and click games, plays well on Android.
+* **F** | [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) - No frills RSS feed reader.
+* **F** | [Flym](https://f-droid.org/en/packages/net.frju.flym/) - A modern RSS feed reader.
+* **F** | [AntennaPod](https://f-droid.org/packages/de.danoeh.antennapod/) - Podcasting Manager, lets you download/stream and manage podcasts. Can add podcasts from iTunes, gpodder.net, OPML files, or RSS feed URLs.
+* **F** | [Termux](https://f-droid.org/en/packages/com.termux/) - A terminal emulator built for Android, with its own repos.
+* **F** | [Soft Sound](https://f-droid.org/en/packages/org.mcxa.softsound/) - Plays relaxing sounds like rain, storms and camp fires.
+* **F** | [Binaural Beats](https://f-droid.org/en/packages/com.github.axet.binauralbeats/) - Helps you to relax and meditate.
+* **F** | [Anuto TD](https://f-droid.org/en/packages/ch.logixisland.anuto/) - A simple tower defence game.
+* **W** | [ScummVM](https://www.scummvm.org/) - Allows you to play old point and click games, plays well on Android.
 
 # GNU/Linux
 

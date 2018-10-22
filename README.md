@@ -97,17 +97,17 @@ These are great
 
 ## Recommended Android Phones
 
-| Key   | Value        |
-|-------|--------------|
-| **L** | LineageOS    |
-| **U** | Ubuntu Touch |
-| **E** | eelo         |
-| **P** | postmarketOS |
+| Key    | Value        |
+|--------|--------------|
+| **Lo** | LineageOS    |
+| **Ub** | Ubuntu Touch |
+| **Eo** | eelo         |
+| **Pm** | postmarketOS |
 
-* [OnePlus 5 (2017-06)](https://en.wikipedia.org/wiki/OnePlus_5) - **[L](https://wiki.lineageos.org/devices/cheeseburger)** - A newish OnePlus phone that supports LineageOS. 
-* [OnePlus 5T (2017-11)](https://en.wikipedia.org/wiki/OnePlus_5T) - **[L](https://wiki.lineageos.org/devices/dumpling)** - The latest OnePlus phone that supports LineageOS.
-* [Moto G4/G4 Plus (2016-05)](https://en.wikipedia.org/wiki/Moto_G4) - **[L](https://wiki.lineageos.org/devices/athene)** - A somewhat low-end phone.
-* [Fairphone 2 (2015-12)](https://en.wikipedia.org/wiki/Fairphone_2) - **[L](https://wiki.lineageos.org/devices/FP2)**, **[U](https://devices.ubuntu-touch.io/device/FP2)**, **[P](https://wiki.postmarketos.org/wiki/Fairphone_2_(fairphone-fp2))** - An ethically sourced, fairtrade smartphone that can be easily repaired.
+* [OnePlus 5 (2017-06)](https://en.wikipedia.org/wiki/OnePlus_5) - **[Lo](https://wiki.lineageos.org/devices/cheeseburger)** - A newish OnePlus phone that supports LineageOS. 
+* [OnePlus 5T (2017-11)](https://en.wikipedia.org/wiki/OnePlus_5T) - **[Lo](https://wiki.lineageos.org/devices/dumpling)** - The latest OnePlus phone that supports LineageOS.
+* [Moto G4/G4 Plus (2016-05)](https://en.wikipedia.org/wiki/Moto_G4) - **[Lo](https://wiki.lineageos.org/devices/athene)** - A somewhat low-end phone.
+* [Fairphone 2 (2015-12)](https://en.wikipedia.org/wiki/Fairphone_2) - **[Lo](https://wiki.lineageos.org/devices/FP2)**, **[Ub](https://devices.ubuntu-touch.io/device/FP2)**, **[Pm](https://wiki.postmarketos.org/wiki/Fairphone_2_(fairphone-fp2))** - An ethically sourced, fairtrade smartphone that can be easily repaired.
 * [OnePlus One (2014-04)](https://en.wikipedia.org/wiki/OnePlus_One) - A phone that came out of nowhere to challenge bigger flagships. ([LineageOS](https://wiki.lineageos.org/devices/bacon), [Ubuntu Touch](https://devices.ubuntu-touch.io/device/bacon), [postmarketOS](https://wiki.postmarketos.org/wiki/OnePlus_One_(oneplus-bacon)).)
 * [Nexus 5 (2013-10)](https://en.wikipedia.org/wiki/Nexus_5) - Old but gold. This phone works best with Ubuntu Touch's convergence. ([LineageOS](https://wiki.lineageos.org/devices/hammerhead), [Ubuntu Touch](https://devices.ubuntu-touch.io/device/hammerhead), [postmarketOS](https://wiki.postmarketos.org/wiki/Google_Nexus_5_(lg-hammerhead)).)
 * [Galaxy Note 2 (N7100) (2012-09)](https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_II) - Very old, but will run a completely free OS. ([Replicant](https://redmine.replicant.us/projects/replicant/wiki/GalaxyNote2N7100).)

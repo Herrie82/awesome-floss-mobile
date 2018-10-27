@@ -41,6 +41,7 @@ Must-have apps, with direct links to either F-Droid or the APK from the official
 * **F** | [OpenCamera](https://f-droid.org/packages/net.sourceforge.opencamera/) - A good camera app, It's more configurable and generally takes better photos then the default camera apps.
 * **F** | [Simple Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery/) - A simple gallery app, has all gallery features one would expect.
 * **F** | [Amaze](https://f-droid.org/en/packages/com.amaze.filemanager/) - A good FLOSS file manager. Looks good, works well, and has extra features.
+* **F** | [AnySoftKeyboard](https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/) - Multilingual keyboard with spell check and plenty of configuration options.
 * **F** | [Document Viewer](https://f-droid.org/en/packages/org.sufficientlysecure.viewer/) - Probably the best document viewer on Android. It is fast and supports PDF, DjVu, XPS and EPUB among others.
 * **F** | [OsmAnd](https://f-droid.org/en/packages/net.osmand.plus/) - Powerful offline map app, shows public transport and hiking symbols among driving features.
 * **F** | [Maps](https://f-droid.org/en/packages/com.github.axet.maps/) - F-Droid fork of Maps.ME. It's fast, easy and offline, but no hiking tools, and rudimentary routing.

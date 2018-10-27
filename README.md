@@ -21,7 +21,7 @@ The Android Open Source Project is licenced under Apache 2.0. However most versi
 * [LineageOS](https://lineageos.org/) - A fork of Android with it's own set of default apps and extra features. G-Apps are optional and should be avoided if can.
 * [LineageOS with microG](https://lineage.microg.org/) - This fork of LineageOS is pre-configured with microG and F-Droid with the privilege extension.
 * [eelo (beta)](https://e.foundation/) - New project from a veteran open-source developer/supporter, huge emphasis on privacy and control and attractiveness. It comes with microG, new default apps, account manager, new search engine and online "cloud" services.
-* [Replicant](https://www.replicant.us/) - A fully FLOSS Android OS, that runs absolutely no proprietary firmware. Uses F-Droid as it's app store and is approved by the FSF. Only runs on (very) old phones.
+* [Replicant](https://www.replicant.us/) - A fully FLOSS Android OS, that runs absolutely no proprietary firmware/drivers/microcode. Uses F-Droid as it's app store and is approved by the FSF. Only runs on (very) old phones.
 
 ## Android Apps
 
@@ -69,7 +69,7 @@ Tertiary apps. Nice to have, but not required for basic operations
 * **F** | [Cow's Revenge](https://f-droid.org/en/packages/org.pipoypipagames.cowsrevenge/) - Fun platform game made in Godot Engine.
 * **F** | [Anuto TD](https://f-droid.org/en/packages/ch.logixisland.anuto/) - A simple tower defence game.
 * **W** | [ScummVM](https://www.scummvm.org/) - Allows you to play old point and click games, plays well on Android.
-* **W** | [RetroArch](https://www.retroarch.com/?page=platforms) - 
+* **W** | [RetroArch](https://www.retroarch.com/?page=platforms) - A front-end for emulators, game engines and more. This allows compatible engines (known as cores) to intergrated into one place, and media
 * **F** | [J2ME Loader](https://f-droid.org/en/packages/ru.playsoftware.j2meloader/) - J2ME Emulator. This will play some old Motorola games.
 
 # GNU/Linux
@@ -80,6 +80,7 @@ These operating systems aren't based on Android, but are instead purpose-built G
 
 * [Ubuntu Touch](https://ubuntu-touch.io/) - Ubuntu ported to mobile, interesting, pleasing and gesture-based UI. Has its own [app ecosystem](https://open-store.io/). Works well on the (older but good) ["promoted devices"](https://ubports.com/devices/promoted-devices). Other devices probably won't work well if at all.
 * [postmarketOS](https://postmarketos.org/) - Touch-optimized, pre-configured Alpine Linux with own packages, designed for mobile devices with the goal of keeping old phones functional and sustainable. Even if a device is supported, it may only be partial. You should check each device individually.
+* [Sailfish](https://en.wikipedia.org/wiki/Sailfish_OS) - A GNU/Linux OS for mobile, has it's own ecosystem and Android support. However some componets (such as the UI) are not FLOSS.
 
 ## GNU/Linux software
 
@@ -90,10 +91,12 @@ These operating systems aren't based on Android, but are instead purpose-built G
 
 ## Free Hardware Projects
 
-These are great 
+These are great phones that aim to have "open hardware". This means it will either let you freely install what ever OS, or that it allows hacking, or that it runs with fully-free OS's.
 
 * [ZeroPhone](https://www.crowdsupply.com/arsenijs/zerophone) - A work-in-progress open source, Linux-powered, $50 smartphone. Based on the Raspberry Pi Zero, ESP8266 and Arduino.
 * [Librem 5](https://puri.sm/products/librem-5/) - A work-in-progress premuim smartphone that is intended to respect security, privacy and freedom.
+* [Neo900](https://neo900.org/) - An in-dev successor to the N900 phone with modern hardware (including LTE). Can run on a fully FLOSS OS, and allows you to install which ever OS you want.
+* [Necunos Mobile](https://necunos.com/mobile/) - A privacy centric open source phone. To-Be-Announced.
 
 ## Recommended Android Phones
 
@@ -107,6 +110,7 @@ These are great
 
 * [OnePlus 5 (2017-06)](https://en.wikipedia.org/wiki/OnePlus_5) - **[Lo](https://wiki.lineageos.org/devices/cheeseburger)** - A newish OnePlus phone that supports LineageOS. 
 * [OnePlus 5T (2017-11)](https://en.wikipedia.org/wiki/OnePlus_5T) - **[Lo](https://wiki.lineageos.org/devices/dumpling)** - The latest OnePlus phone that supports LineageOS.
+* [Samsung Galaxy S9](https://en.wikipedia.org/wiki/Samsung_Galaxy_S9) - **[Lo](https://wiki.lineageos.org/devices/starlte)** - The latest and greatest phone money can buy with official LineageOS support.
 * [Moto G4/G4 Plus (2016-05)](https://en.wikipedia.org/wiki/Moto_G4) - **[Lo](https://wiki.lineageos.org/devices/athene)** - A somewhat low-end phone.
 * [Fairphone 2 (2015-12)](https://en.wikipedia.org/wiki/Fairphone_2) - **[Lo](https://wiki.lineageos.org/devices/FP2)**, **[Ub](https://devices.ubuntu-touch.io/device/FP2)**, **[Pm](https://wiki.postmarketos.org/wiki/Fairphone_2_(fairphone-fp2))** - An ethically sourced, fairtrade smartphone that can be easily repaired.
 * [OnePlus One (2014-04)](https://en.wikipedia.org/wiki/OnePlus_One) - **[Lo](https://wiki.lineageos.org/devices/bacon)**, **[Ub](https://devices.ubuntu-touch.io/device/bacon)**, **[Pm](https://wiki.postmarketos.org/wiki/OnePlus_One_(oneplus-bacon))** - A phone that came out of nowhere to challenge bigger flagships.

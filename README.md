@@ -68,6 +68,7 @@ Tertiary apps. Nice to have, but not required for basic operations
 * **F** | [Material Tea Timer](https://f-droid.org/packages/org.ligi.materialteatimer/) - Time your tea brewing.
 * **F** | [Soft Sound](https://f-droid.org/en/packages/org.mcxa.softsound/) - Plays relaxing sounds like rain, storms and camp fires.
 * **F** | [Binaural Beats](https://f-droid.org/en/packages/com.github.axet.binauralbeats/) - Helps you to relax and meditate.
+* **F** | [Shattered Pixel Dungeon](https://f-droid.org/en/packages/com.shatteredpixel.shatteredpixeldungeon/) - Rouge-like game.
 * **F** | [Minetest](https://f-droid.org/en/packages/net.minetest.minetest/) Voxel sandbox game, with multiplayer. Some has made a [mod manager](https://f-droid.org/en/packages/com.rubenwardy.minetestmodmanager/).
 * **F** | [SuperTuxKart](https://f-droid.org/en/packages/org.supertuxkart.stk/) - Good 3D kart racing game (similar to Mario Kart)
 * **F** | [Cow's Revenge](https://f-droid.org/en/packages/org.pipoypipagames.cowsrevenge/) - Fun platform game made in Godot Engine.

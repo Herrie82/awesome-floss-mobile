@@ -47,6 +47,8 @@ Must-have apps, with direct links to either F-Droid or the APK from the official
 * **F** | [Simple Calendar](https://f-droid.org/en/packages/com.simplemobiletools.calendar/) - A more simple solution to LineageOS' default app. Works well for events and has reminders.
 * **F** | [Editor](https://f-droid.org/en/packages/org.billthefarmer.editor/) - A simple text editor, could be used to store notes in a simple fashion.
 * **F** | [Survival Manual](https://f-droid.org/en/packages/org.ligi.survivalmanual/) - Learn how to survive. Based on the Army Field Manual 21-76 - fully working offline.
+* **F** | [K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/) - Mail client with multiple accounts, POP3, IMAP Push IMAP, OpenPGP if [OpenKeychain](https://f-droid.org/fr/packages/org.sufficientlysecure.keychain/) installed.
+* **F** | [AFWall+](https://f-droid.org/en/packages/dev.ukanth.ufirewall/) - Firewall (iptables front-end) which allows you to choose which are allowed to connect to the Internet. 
 
 ### Nice Apps
 

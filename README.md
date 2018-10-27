@@ -59,6 +59,7 @@ Tertiary apps. Nice to have, but not required for basic operations
 * **F** | [AntennaPod](https://f-droid.org/packages/de.danoeh.antennapod/) - Podcasting Manager, lets you download/stream and manage podcasts. Can add podcasts from iTunes, gpodder.net, OPML files, or RSS feed URLs.
 * **F** | [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) - Lightweight YouTube/Soundcloud frontend.
 * **F** | [Slide](https://f-droid.org/en/packages/me.ccrama.redditslide/) - Feature-packed and material-designed Reddit client.
+* **F** | [Markor](https://f-droid.org/en/packages/net.gsantner.markor/) - A powerful text editor and note manager with Markdown support.
 * **F** | [Termux](https://f-droid.org/en/packages/com.termux/) - A terminal emulator built for Android, with its own repos. [Hacker's Keyboard](https://f-droid.org/en/packages/org.pocketworkstation.pckeyboard/) is recommended.
 * **F** | [Unit Converter Ultimate](https://f-droid.org/en/packages/com.physphil.android.unitconverterultimate/) - A simple and easy-to-use unit converter to handle any conversion you'll ever need.
 * **F** | [LibreTorrent](https://f-droid.org/en/packages/org.proninyaroslav.libretorrent/) - Torrent Client.

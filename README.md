@@ -80,12 +80,18 @@ These operating systems aren't based on Android, but are instead purpose-built G
 
 * [Ubuntu Touch](https://ubuntu-touch.io/) - Ubuntu ported to mobile, interesting, pleasing and gesture-based UI. Has its own [app ecosystem](https://open-store.io/). Works well on the (older but good) ["promoted devices"](https://ubports.com/devices/promoted-devices). Other devices probably won't work well if at all.
 * [postmarketOS](https://postmarketos.org/) - Touch-optimized, pre-configured Alpine Linux with own packages, designed for mobile devices with the goal of keeping old phones functional and sustainable. Even if a device is supported, it may only be partial. You should check each device individually.
-* [Sailfish](https://en.wikipedia.org/wiki/Sailfish_OS) - A GNU/Linux OS for mobile, has it's own ecosystem and Android support. However some componets (such as the UI) are not FLOSS.
+* [Sailfish](https://en.wikipedia.org/wiki/Sailfish_OS) - A GNU/Linux OS for mobile, has it's own ecosystem and Android support. However some components (such as the UI) are not FLOSS.
 
 ## GNU/Linux software
 
 * [Plasma Mobile](https://www.plasma-mobile.org/) - The KDE Plasma desktop environment ported to mobile GNU/Linux!
 * [Anbox](https://anbox.io/) - Compatibility layer that allows Android apps to run on any GNU/Linux system.
+* [Shashlik](http://www.shashlik.io/) - Provides a way to run Android apps under a GNU/Linux desktop as easily and simply as possible.
+
+## Ubuntu Touch Apps
+
+* [uNav](https://open-store.io/app/navigator.costales) - OpenStreetMap-powered GPS/maps app with offline map function.
+* [Podbird](https://open-store.io/app/com.mikeasoft.podbird) - Podcast manager.
 
 # Hardware
 

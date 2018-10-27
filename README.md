@@ -110,7 +110,7 @@ These are great phones that aim to have "open hardware". This means it will eith
 
 * [OnePlus 5 (2017-06)](https://en.wikipedia.org/wiki/OnePlus_5) - **[Lo](https://wiki.lineageos.org/devices/cheeseburger)** - A newish OnePlus phone that supports LineageOS. 
 * [OnePlus 5T (2017-11)](https://en.wikipedia.org/wiki/OnePlus_5T) - **[Lo](https://wiki.lineageos.org/devices/dumpling)** - The latest OnePlus phone that supports LineageOS.
-* [Samsung Galaxy S9](https://en.wikipedia.org/wiki/Samsung_Galaxy_S9) - **[Lo](https://wiki.lineageos.org/devices/starlte)** - The latest and greatest phone money can buy with official LineageOS support.
+* [Samsung Galaxy S9 (2018-03)](https://en.wikipedia.org/wiki/Samsung_Galaxy_S9) - **[Lo](https://wiki.lineageos.org/devices/starlte)** - The latest and greatest phone money can buy with official LineageOS support.
 * [Moto G4/G4 Plus (2016-05)](https://en.wikipedia.org/wiki/Moto_G4) - **[Lo](https://wiki.lineageos.org/devices/athene)** - A somewhat low-end phone.
 * [Fairphone 2 (2015-12)](https://en.wikipedia.org/wiki/Fairphone_2) - **[Lo](https://wiki.lineageos.org/devices/FP2)**, **[Ub](https://devices.ubuntu-touch.io/device/FP2)**, **[Pm](https://wiki.postmarketos.org/wiki/Fairphone_2_(fairphone-fp2))** - An ethically sourced, fairtrade smartphone that can be easily repaired.
 * [OnePlus One (2014-04)](https://en.wikipedia.org/wiki/OnePlus_One) - **[Lo](https://wiki.lineageos.org/devices/bacon)**, **[Ub](https://devices.ubuntu-touch.io/device/bacon)**, **[Pm](https://wiki.postmarketos.org/wiki/OnePlus_One_(oneplus-bacon))** - A phone that came out of nowhere to challenge bigger flagships.

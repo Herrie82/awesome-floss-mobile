@@ -10,7 +10,7 @@ We have many operating systems, apps and hardware projects, trying to push for a
 
 These apps intend to replace the "core" system apps that any user would expect. These download/update apps and provide APIs for apps to use.
 
-* [F-Droid](https://f-droid.org/) - Repository and app containing only FLOSS software. Has a decent selection.
+* [F-Droid](https://f-droid.org/) - Repository and app containing only FLOSS software. Has a decent selection. Also check out the [Privileged Extension](https://gitlab.com/fdroid/privileged-extension/#f-droid-privileged-extension) if you are root, so you can install and remove apps in the background without having to confirm.
 * [microG](https://microg.org/) - FLOSS reimplementation of the Google Play Services middleware, a must have if you intend to run most Google Play Apps. (hard to install, you should use a pre-configured custom rom instead).
 * [Yalp Store](https://f-droid.org/en/packages/com.github.yeriomin.yalpstore/) - Grabs APKs directly from Google Play and facilitates updates.
 
@@ -24,8 +24,6 @@ The Android Open Source Project is licenced under Apache 2.0. However most versi
 * [Replicant](https://www.replicant.us/) - A fully FLOSS Android OS, that runs absolutely no proprietary firmware/drivers/microcode. Uses F-Droid as it's app store and is approved by the FSF. Only runs on (very) old phones.
 
 ## Android Apps
-
-
 
 | Key   | Value                                       |
 |-------|---------------------------------------------|
@@ -72,7 +70,7 @@ Tertiary apps. Nice to have, but not required for basic operations
 * **F** | [Minetest](https://f-droid.org/en/packages/net.minetest.minetest/) Voxel sandbox game, with multiplayer. Some has made a [mod manager](https://f-droid.org/en/packages/com.rubenwardy.minetestmodmanager/).
 * **F** | [SuperTuxKart](https://f-droid.org/en/packages/org.supertuxkart.stk/) - Good 3D kart racing game (similar to Mario Kart)
 * **F** | [Cow's Revenge](https://f-droid.org/en/packages/org.pipoypipagames.cowsrevenge/) - Fun platform game made in Godot Engine.
-* **F** | [Anuto TD](https://f-droid.org/en/packages/ch.logixisland.anuto/) - A simple tower defence game.
+* **F** | [Anuto TD](https://f-droid.org/en/packages/ch.logixisland.anuto/) - A simple tower defence game..
 * **W** | [ScummVM](https://www.scummvm.org/) - Allows you to play old point and click games, plays well on Android.
 * **W** | [RetroArch](https://www.retroarch.com/?page=platforms) - A front-end for emulators, game engines and more. This allows compatible engines (known as cores) to intergrated into one place, and media
 * **F** | [J2ME Loader](https://f-droid.org/en/packages/ru.playsoftware.j2meloader/) - J2ME Emulator. This will play some old Motorola games.
@@ -106,8 +104,8 @@ These are phones that aim to have "open hardware". This usually means it will ei
 
 * [ZeroPhone](https://www.crowdsupply.com/arsenijs/zerophone) - A work-in-progress open source, Linux-powered, $50 smartphone. Based on the Raspberry Pi Zero, ESP8266 and Arduino.
 * [Librem 5](https://puri.sm/products/librem-5/) - A work-in-progress premuim smartphone that is intended to respect security, privacy and freedom.
-* [Neo900](https://neo900.org/) - An in-dev successor to the N900 phone with modern hardware (including LTE). Can run on a fully FLOSS OS, and allows you to install which ever OS you want.
 * [Necunos Mobile](https://necunos.com/mobile/) - A privacy centric open source phone. To-Be-Announced.
+* [Neo900](https://neo900.org/) - An in-dev successor to the N900 phone with modern hardware (including LTE). Can run on a fully FLOSS OS, and allows you to install which ever OS you want.
 
 ## Recommended Android Phones
 

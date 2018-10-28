@@ -126,4 +126,8 @@ These are phones that aim to have "open hardware". This usually means it will ei
 * [Nexus 5 (2013-10)](https://en.wikipedia.org/wiki/Nexus_5) - **[Lo](https://wiki.lineageos.org/devices/hammerhead)**, **[Ub](https://devices.ubuntu-touch.io/device/hammerhead)**, **[Pm](https://wiki.postmarketos.org/wiki/Google_Nexus_5_(lg-hammerhead))** - Old but gold. This phone works best with Ubuntu Touch's convergence.
 * [Galaxy Note 2 (N7100) (2012-09)](https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_II) - **[Re](https://redmine.replicant.us/projects/replicant/wiki/GalaxyNote2N7100)** - Very old, but will run a completely free OS.
 
+# Misc.
+
+* [NanoDroid](https://gitlab.com/Nanolx/NanoDroid/blob/master/README.md) - Flashable package containing microG, F-Droid and other FLOSS apps.
+
 ![Public Domain (CC0)](pd.png) CC0 Licenced.

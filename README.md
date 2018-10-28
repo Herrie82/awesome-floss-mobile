@@ -102,7 +102,7 @@ These operating systems aren't based on Android, but are instead purpose-built G
 
 ## Free Hardware Projects
 
-These are great phones that aim to have "open hardware". This means it will either let you freely install what ever OS, or that it allows hacking, or that it runs with fully-free OS's.
+These are phones that aim to have "open hardware". This usually means it will either let you freely install what ever OS, or that it allows hacking, or that it runs with fully-free OS's. A fully free SoC is unlikely.
 
 * [ZeroPhone](https://www.crowdsupply.com/arsenijs/zerophone) - A work-in-progress open source, Linux-powered, $50 smartphone. Based on the Raspberry Pi Zero, ESP8266 and Arduino.
 * [Librem 5](https://puri.sm/products/librem-5/) - A work-in-progress premuim smartphone that is intended to respect security, privacy and freedom.

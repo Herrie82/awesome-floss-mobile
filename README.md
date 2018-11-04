@@ -56,6 +56,7 @@ Tertiary apps. Nice to have, but not required for basic operations
 * **F** | [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) - No frills RSS feed reader.
 * **F** | [Flym](https://f-droid.org/en/packages/net.frju.flym/) - A modern RSS feed reader.
 * **F** | [AntennaPod](https://f-droid.org/packages/de.danoeh.antennapod/) - Podcasting Manager, lets you download/stream and manage podcasts. Can add podcasts from iTunes, gpodder.net, OPML files, or RSS feed URLs.
+* **F** | [Voice](https://f-droid.org/en/packages/de.ph1b.audiobook/) - Simple audiobook player, Has all features one would expect.
 * **F** | [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) - Lightweight YouTube/Soundcloud frontend.
 * **F** | [Slide](https://f-droid.org/en/packages/me.ccrama.redditslide/) - Feature-packed and material-designed Reddit client.
 * **F** | [Markor](https://f-droid.org/en/packages/net.gsantner.markor/) - A powerful text editor and note manager with Markdown support.
@@ -100,12 +101,14 @@ These operating systems aren't based on Android, but are instead purpose-built G
 
 ## Free Hardware Projects
 
-These are phones that aim to have "open hardware". This usually means it will either let you freely install what ever OS, or that it allows hacking, or that it runs with fully-free OS's. A fully free SoC is unlikely.
+Although a fully free SoC is unlikely, There are hardware projects which intend to make everything as free/open as they can. This usually means it will either let you freely install what ever OS, or that it allows hacking (they may even release schematics), or that it runs with a fully free operating system.
 
 * [ZeroPhone](https://www.crowdsupply.com/arsenijs/zerophone) - A work-in-progress open source, Linux-powered, $50 smartphone. Based on the Raspberry Pi Zero, ESP8266 and Arduino.
-* [Librem 5](https://puri.sm/products/librem-5/) - A work-in-progress premuim smartphone that is intended to respect security, privacy and freedom.
+* [Librem 5](https://puri.sm/products/librem-5/) - A work-in-progress premium smartphone that is intended to respect security, privacy and freedom.
+* [Pine64 Phone](https://liliputing.com/2018/10/pine64-is-developing-a-linux-smartphone.html) - Pine64 sell single-board computers. They are now working on a Linux-powered smartphone planned to run Plasma Mobile. They are also selling low-cost laptops.
 * [Necunos Mobile](https://necunos.com/mobile/) - A privacy centric open source phone. To-Be-Announced.
 * [Neo900](https://neo900.org/) - An in-dev successor to the N900 phone with modern hardware (including LTE). Can run on a fully FLOSS OS, and allows you to install which ever OS you want.
+* [DragonBox Pyra](https://pyra-handheld.com/) - A laptop-style handheld computer.
 
 ## Recommended Android Phones
 
@@ -128,6 +131,8 @@ These are phones that aim to have "open hardware". This usually means it will ei
 
 # Misc.
 
+* ["Android FLOSS Apps"](https://gitlab.com/Ashpex/android-FOSS-apps) - A more comprehensive list of FLOSS Android apps.
+* [Halium](https://halium.org/) - A project to standardise all the various mobile GNU/Linux efforts, since much of the low-level base is fragmented across each OS. The project aims to standardise the Linux kernel build and the Android HAL (so non-Android OS's can use Android drivers).
 * [NanoDroid](https://gitlab.com/Nanolx/NanoDroid/blob/master/README.md) - Flashable package containing microG, F-Droid and other FLOSS apps.
 
 ![Public Domain (CC0)](pd.png) CC0 Licenced.

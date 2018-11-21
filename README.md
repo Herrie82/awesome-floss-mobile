@@ -132,6 +132,7 @@ Although a fully free SoC is unlikely, There are hardware projects which intend 
 # Misc.
 
 * ["Android FLOSS Apps"](https://gitlab.com/Ashpex/android-FOSS-apps) - A more comprehensive list of FLOSS Android apps.
+* ["Freedom and privacy/security issues"](https://www.replicant.us/freedom-privacy-security-issues.php) - An article from the Replicant project, detailing the issues of proprietary software on mobile platforms.
 * [Halium](https://halium.org/) - A project to standardise all the various mobile GNU/Linux efforts, since much of the low-level base is fragmented across each OS. The project aims to standardise the Linux kernel build and the Android HAL (so non-Android OS's can use Android drivers).
 * [NanoDroid](https://gitlab.com/Nanolx/NanoDroid/blob/master/README.md) - Flashable package containing microG, F-Droid and other FLOSS apps.
 
